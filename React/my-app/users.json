@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "testuser@mail.com",
+      "password": "$2a$10$ecPilgt0CGgOBDXIOEZ2EuOrM3s6UPLuEZEB52moYd5kqHvz6hTaO",
+      "id": 1
+    },
+    {
+      "email": "abc@abc.com",
+      "password": "$2a$10$RjknEzy.R0flkkTEPj4Xhuf6cOTp6p2r3navzq.7qLRCO9uQlZCG6",
+      "first_name": "NAVANEETH SANKAR",
+      "last_name": "M",
+      "address": "Eledath Mana,Cheruvaikkara, Biyyam(PO)",
+      "phone": "08129184257",
+      "age": "12",
+      "gender": "male",
+      "id": 2
+    }
+  ]
+}
